@@ -8,4 +8,9 @@ Commiting from git hub
 
 commiting in new branch
 
+
 committing from cloned branch 
+
+
+commiting in branch from repo after clone in local
+
