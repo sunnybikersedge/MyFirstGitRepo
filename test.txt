@@ -7,3 +7,5 @@ commiting form local
 Commiting from git hub
 
 commiting in new branch
+
+committing from cloned branch 
